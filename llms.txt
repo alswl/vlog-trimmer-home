@@ -14,5 +14,5 @@ Vlogo 秒剪是一款 macOS 桌面应用（含网页端），面向旅行视频�
 
 ## 链接
 
-- 官网（本页）：<https://vlog-trimmer.0xyz.com/>
+- 官网（本页）：<https://vlogo.0xyz.com/>
 - 开源仓库与文档：<https://github.com/alswl/vlogo>
