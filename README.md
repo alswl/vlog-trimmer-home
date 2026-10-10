@@ -1,6 +1,6 @@
-# Vlog Trimmer — Home
+# Vlogo 秒剪 — Home
 
-[Vlog Trimmer](https://github.com/alswl/vlog-trimmer) 的 landing page，通过 GitHub Pages 发布。
+[Vlogo 秒剪](https://github.com/alswl/vlogo) 的 landing page，通过 GitHub Pages 发布。
 
 - 线上地址：<https://vlog-trimmer.0xyz.com/>（自定义域名，`CNAME` 文件维护）
 
